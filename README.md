@@ -1,4 +1,4 @@
-# Technical test for easy practice 
+# EasyPractice technical test - Last version
 
 ## Project setup
 ```
