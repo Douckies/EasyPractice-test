@@ -1,4 +1,4 @@
-# EasyPractice technical test v0.1
+# EasyPractice technical test - v0.1
 
 ## Project setup
 ```
